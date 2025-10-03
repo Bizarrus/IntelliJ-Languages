@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin id="com.custom.intellij.languages.german" url="./com.custom.intellij.languages.german/packed.jar" version="1.0.0" />
+    <idea-version since-build="181.3" until-build="191.*"/>
+  </plugin>
+</plugins>
